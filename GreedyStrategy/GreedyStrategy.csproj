@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Helper\DijkstraAlgorithm.cs" />
     <Compile Include="Helper\HuffmanCoding.cs" />
     <Compile Include="Helper\HuffmanTree.cs" />
     <Compile Include="Helper\JobSchedulingProblem.cs" />

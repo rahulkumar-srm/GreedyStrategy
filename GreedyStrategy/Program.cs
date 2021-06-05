@@ -71,17 +71,6 @@ namespace GreedyStrategy
                     Console.WriteLine("Decoded: " + decoded);
                     Console.WriteLine();
                 }
-                else if (i == 5)
-                {
-                    Console.Write("\nEnter the start vertex : ");
-                    int startVertex = Convert.ToInt32(Console.ReadLine());
-                    Console.WriteLine();
-
-                    DijkstraAlgorithm dijkstraAlgorithm = new DijkstraAlgorithm();
-                    dijkstraAlgorithm.DisplayShortestPath(dijkstraAlgorithm.ShortestPath(startVertex), startVertex);
-
-                    Console.WriteLine();
-                }
                 else
                 {
                     Console.WriteLine("Please select a valid option.");
