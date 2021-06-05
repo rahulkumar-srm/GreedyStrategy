@@ -19,7 +19,6 @@ namespace GreedyStrategy
                     Environment.NewLine + "2. Job Scheduling Problem" + //Time Complexity(n^2)
                     Environment.NewLine + "3. Optimal Merge Problem" + //Time Complexity(nlogn)
                     Environment.NewLine + "4. Huffman Coding" + //Time Complexity(nlogn)
-                    Environment.NewLine + "5. Dijkstra Algorithm" + //Time Complexity(n^2)
                     Environment.NewLine + "0. Exit\n"
                 );
 
